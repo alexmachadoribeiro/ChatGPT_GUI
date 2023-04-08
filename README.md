@@ -10,7 +10,7 @@ Projeto utilizando a API da OpenAI de geração de texto com linguage neural
 
 ## Screenshot
 
-![img](img\Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/126124866/230721991-285ae638-3bd8-4288-ac83-a554e142dccd.png)
 
 ## Author
 
