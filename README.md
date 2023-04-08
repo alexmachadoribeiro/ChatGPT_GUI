@@ -14,9 +14,4 @@ Projeto utilizando a API da OpenAI de geração de texto com linguage neural
 
 ## Author
 
-- Website - [Matheus Gama](https://mth-gama.github.io/)
-- GitHub - [@mth-gama](https://github.com/mth-gama)
-
-## Acknowledgments
-
-Projeto solo
+- Instagram - [COMUNIDADE PYTHON BRASIL](https://www.instagram.com/python_brasil/)
